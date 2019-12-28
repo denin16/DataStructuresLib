@@ -56,7 +56,7 @@ public class DLL<T> implements Iterable<T> {
             head = tail = newNode;
             size++;
             return true;
-        } else {
+        } else {//List is not empty
             Node<T> newNode = new Node<>(data, null, null);
             newNode.prev = tail;
             tail.next = newNode;
@@ -90,12 +90,14 @@ public class DLL<T> implements Iterable<T> {
             newNode.next =  trav.next;
             trav.next.prev = newNode;
             trav.next = newNode;
+            size++;
         }
         return true;
     }
 
     //To empty the list
     public void clear(){
+        if(isEmpty()) return;
         Node<T> trav1 = head;
         Node<T> trav2 = head.next;
         while (trav2 != null){
@@ -111,11 +113,13 @@ public class DLL<T> implements Iterable<T> {
 
     //To get the first element of the list
     public T peekFirst(){
+        if(isEmpty()) throw new RuntimeException("List empty!");
         return head.data;
     }
 
     //To get the last element of the list
     public T peekLast(){
+        if(isEmpty()) throw new RuntimeException("List empty!");
         return tail.data;
     }
 
@@ -163,12 +167,14 @@ public class DLL<T> implements Iterable<T> {
             T data = node.data;
             node.prev = node.next = null;
             node.data = null;
+            size--;
             return data;
         }
     }
 
     //To remove a node from a given index
     public T removeAt(int index){
+        if(index > size || index < 0) throw new RuntimeException("Illegal Index");
         int counter = 0;
         Node<T> trav = head;
         while (counter < index){

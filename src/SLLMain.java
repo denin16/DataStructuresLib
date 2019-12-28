@@ -1,6 +1,6 @@
 public class SLLMain {
     /*
-    Functions defined for the SLL class
+    Functions defined for the SLL (Singly Linked List) class
     - size() - Returns the size of the list
     - isEmpty() - Returns true if it is empty, else false
     - peekFirst() - Returns the data stored in first node
