@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class ArrST<T> {
 
     int maxSize = 10;
-    ArrayList<T> arrst = new ArrayList<>(maxSize);
+    ArrayList<T> arrst = new ArrayList<>();
 
     //To get the size of the stack
     public int size(){

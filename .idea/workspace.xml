@@ -28,7 +28,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ArrSTMain">
+  <component name="RunManager" selected="Application.ArrQUMain">
+    <configuration name="ArrQUMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrQUMain" />
+      <module name="DataStructuresLib" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrSTMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrSTMain" />
       <module name="DataStructuresLib" />
@@ -43,15 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DLLMain" />
-      <module name="DataStructuresLib" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SLLMain" />
+    <configuration name="QUMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QUMain" />
       <module name="DataStructuresLib" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrQUMain" />
+        <item itemvalue="Application.QUMain" />
         <item itemvalue="Application.ArrSTMain" />
         <item itemvalue="Application.CLLMain" />
         <item itemvalue="Application.STMain" />
-        <item itemvalue="Application.DLLMain" />
-        <item itemvalue="Application.SLLMain" />
       </list>
     </recent_temporary>
   </component>
@@ -104,22 +104,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577538775795" />
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1577603361165">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1577609121087">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577603361165" />
-    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1577603361165">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577609121087" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1577609121087">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577603361165" />
-    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1577603361165">
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577609121087" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1577609121087">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577603361165" />
-    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1577603361165">
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577609121087" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1577609121087">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577603361165" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577609121087" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1577553860505">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
