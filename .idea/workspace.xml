@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e30cd21a-9bab-4997-a51f-c0ba8e696deb" name="Default Changelist" comment="" />
+    <list default="true" id="e30cd21a-9bab-4997-a51f-c0ba8e696deb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ExpressionEvaluator">
+  <component name="RunManager" selected="Application.PQUMain">
     <configuration name="ArrQUMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrQUMain" />
       <module name="DataStructuresLib" />
@@ -43,15 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CLLMain" />
+    <configuration name="ExpressionEvaluator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpressionEvaluator" />
       <module name="DataStructuresLib" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpressionEvaluator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExpressionEvaluator" />
+    <configuration name="PQUMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PQUMain" />
       <module name="DataStructuresLib" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +68,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PQUMain" />
         <item itemvalue="Application.ExpressionEvaluator" />
         <item itemvalue="Application.ArrQUMain" />
         <item itemvalue="Application.QUMain" />
         <item itemvalue="Application.ArrSTMain" />
-        <item itemvalue="Application.CLLMain" />
       </list>
     </recent_temporary>
   </component>
@@ -100,45 +102,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1577538775795">
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1577784625801">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577538775795" />
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1577611284517">
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577784625801" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1577799874887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577611284517" />
-    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1577611284517">
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577799874887" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1577799874887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577611284517" />
-    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1577611284517">
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577799874887" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1577799874887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577611284517" />
-    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1577611284517">
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577799874887" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1577799874887">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577611284517" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1577553860505">
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577799874887" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1577620047479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577553860505" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1577553860505">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577620047479" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1577620047479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577553860505" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1577553860505">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577620047479" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1577620047479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577553860505" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1577553860505">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577620047479" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1577620047479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577553860505" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577620047479" />
     <state x="277" y="59" key="SettingsEditor" timestamp="1577538813459">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577538813459" />
+    <state x="209" y="37" key="new project wizard" timestamp="1577784725069">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="37" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577784725069" />
   </component>
 </project>
