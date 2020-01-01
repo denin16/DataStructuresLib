@@ -1,5 +1,5 @@
 public class QU<T> {
-    /* Implementation of Queue using Linked List */
+    /* Implementation of Queue using Doubly Linked List */
 
     DLL<T> dll = new DLL<>();
 
